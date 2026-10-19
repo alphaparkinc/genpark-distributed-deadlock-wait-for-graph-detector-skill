@@ -1,0 +1,21 @@
+{
+  "name": "genpark-distributed-deadlock-wait-for-graph-detector-skill",
+  "version": "1.0.1",
+  "description": "Real-time Tarjan SCC cycle detection on lock Wait-For-Graphs with minimal-cost victim transaction arbitrator",
+  "author": "GenPark AI",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "topics": [
+    "mcp",
+    "deadlock-detector",
+    "wait-for-graph",
+    "tarjan-scc",
+    "distributed-systems",
+    "concurrency-control",
+    "python-standard-library",
+    "agent-skills",
+    "transaction-arbitrator",
+    "lock-manager",
+    "database"
+  ]
+}
